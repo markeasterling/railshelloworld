@@ -6,7 +6,7 @@ class ApplicationController < ActionController::Base
   end
 
   def bye
-    render html: "see yaå"
+    render html: "see ya"
   end
 end
 
